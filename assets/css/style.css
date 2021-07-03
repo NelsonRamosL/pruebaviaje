@@ -58,12 +58,20 @@ font-weight: bold;
 /* Pie con tamaño letra 25px y color pre definido en root */
 .pie{
   background-color: var(--info) ;
-  font-size: 25px;
+  font-size: 20px;
 }
 
 
+/* tamaños en dimenciones pequeñas */
+@media (min-width: 600px) { 
+  
+  .pie{
+    font-size: 30px;
 
+  }
 
+  
+   }
 
 
 

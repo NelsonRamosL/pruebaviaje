@@ -7,7 +7,9 @@
 }
 
 
-
+html {
+  scroll-behavior: smooth;
+}
 
 
 
@@ -40,8 +42,17 @@ background-color: var(--info) ;
 }
 
 
+.pie{
+  background-color: var(--info) ;
+  font-size: 40px;
+}
 
 
+.iconos{
+font-size: 40px;
+
+
+}
 
 
 

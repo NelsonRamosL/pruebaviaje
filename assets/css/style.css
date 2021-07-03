@@ -1,17 +1,36 @@
- 
+ :root {
+  
+    
+    --white: #fff;
+    --info:#17a2b8;
+    --black: rgb(0, 0, 0);
+}
 
- /* GLOBAL STYLES
--------------------------------------------------- */
-/* Padding below the footer and lighter body text */
+
+
+
+
+
 
 body {
     padding-top: 0rem;
     padding-bottom: 3rem;
-    color: #ffffff;
-    background-color: black;
+    color: var(--white);
+    background-color: var(--black);
   }
   
   
+.fondoico{
+background-color: var(--info) ;
+
+}
+
+
+
+
+
+
+
   /* CUSTOMIZE THE CAROUSEL
   -------------------------------------------------- */
   

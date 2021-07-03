@@ -55,10 +55,10 @@ font-weight: bold;
 }
 
 
-/* Pie con tamaño letra 30px y color pre definido en root */
+/* Pie con tamaño letra 25px y color pre definido en root */
 .pie{
   background-color: var(--info) ;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 

@@ -23,10 +23,17 @@ body {
 .fondoico{
 background-color: var(--info) ;
 
+
 }
 
 
+.dice{
+    padding: 5px;
+    border: 5px; 
+    
 
+
+}
 
 
 

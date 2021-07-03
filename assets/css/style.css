@@ -136,7 +136,7 @@ height: auto;
 
    .navbar {
      background-color: transparent !important;
-    position: absolute;
+    position: fixed;
     top: 0px;
     width: 95%;
     z-index: 2;
